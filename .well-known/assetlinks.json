@@ -1,0 +1,12 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "station",
+      "package_name": "station.android.twa",
+      "sha256_cert_fingerprints": ["E5:DF:AA:24:97:36:6C:19:53:5D:A4:D3:C5:F9:17:51:49:0F:74:D9:FD:54:C1:5F:9F:D3:DA:B7:41:A5:8D:6D"]
+    }
+  }
+]
